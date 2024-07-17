@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hackernitin0
+- 👋 Hi, I’m @Nitin yadav
 - 👀 I’m interested in aiml
 - 🌱 I’m currently learning python
 - 📫 How to reach me ni37249088737@gmail.com
